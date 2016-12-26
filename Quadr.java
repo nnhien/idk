@@ -2,11 +2,6 @@ import java.util.Scanner;
 
 public class Quadr{
    
-   int a;
-   int b;
-   int c;
-   int det;
-
    public static void main(String[] args){
       
       Scanner scanner = new Scanner(System.in);
