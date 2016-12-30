@@ -1,3 +1,4 @@
+package com.idk.primegen;
 import java.util.ArrayList;
 
 public class Prime{

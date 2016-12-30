@@ -1,5 +1,5 @@
+package com.idk.quadrcalc;
 // Imported scanner class
-
 import java.util.Scanner;
 
 public class Quadr{
